@@ -25,3 +25,5 @@ Once you have done everthing above, simply run the following command to make the
 ```shell
 npm run dev
 ```
+
+syedmuhamaddanish this guy help me to build this project his content is very helpfull for me thank you!
